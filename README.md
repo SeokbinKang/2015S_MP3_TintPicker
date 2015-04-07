@@ -5,6 +5,8 @@ Overview
 =====
 Don't miss your favorite colors on the street. Tint Picker is a tangible color picker that allows you to save any colors in your life and build your color palette to use in the future design, painting, or fun. Tink Picker is a remake of microphone toy which originally alters or exaggerates user's voice. We break down the toy and replace microphone and PCB controller with RGB sensor and Arduino Blend Micro respectively. Tint Picker sensors RGB/light value at its tip and send the data to application server through Bluetooth embedded in Arduino Blend Micro. Our application visualizes the color picked with colorful balls and presents the recent colors at your palette.
 
+![alt tag](https://raw.githubusercontent.com/ppp9494/2015S_MP3_TintPicker/master/breakdown.png)
+
 Source Code
 -----
  Arduino\tcs34725autorange\tcs34725autorange.ino
