@@ -19,7 +19,9 @@ Source Code
 
 Hardware Component
 -----
-
+  Readbear Blend Micro (http://store.redbearlab.com/products/blendmicro)
+  Flora Color Sensor (http://www.adafruit.com/products/1356#tutorials)
+  
 Running Environment
 -----
   Aruduino : Blend Micro or Any arduino board equipped with bluetooth
